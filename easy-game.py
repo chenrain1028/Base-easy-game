@@ -1,4 +1,4 @@
-print("練習題5")
+print("Game1")
 while True:
 
     num = input("A的數字: 按下q 就結束迴圈 結束遊戲\n")
